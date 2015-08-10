@@ -6,6 +6,8 @@ To deploy this component go to the Joomla Extension - Extension Manager - Instal
 
 Then visit www.{Yoursite}.com/index.php?option=com_helloworld
 
+You can see "Hello world Mashpy"
+
 ### Version
 1.0.0
 License
